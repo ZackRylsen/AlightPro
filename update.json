@@ -1,7 +1,7 @@
 {
-  "version_code": 1,
-  "version_name": "1.1",
-  "force_update": false,
+  "version_code": 2,
+  "version_name": "1.2",
+  "force_update": true,
   "apk_url": "",
   "message": "test update",
   "changelog": "testing"
