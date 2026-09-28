@@ -1,7 +1,7 @@
 {
   "version_code": 2,
   "version_name": "1.1",
-  "force_update": false,
+  "force_update": true,
   "apk_url": "https://drive.google.com/file/d/XXXXXXXX/view?usp=sharing",
   "message": "Update tersedia. Disarankan update untuk pengalaman terbaik.",
   "changelog": "- Perbaikan bug\n- UI dashboard baru\n- Fitur X ditambahkan"
