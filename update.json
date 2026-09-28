@@ -1,6 +1,6 @@
 {
-  "version_code": 999,
-  "version_name": "99.0",
+  "version_code": 1,
+  "version_name": "1.0",
   "force_update": true,
   "apk_url": "https://google.com",
   "message": "Ini cuma test",
